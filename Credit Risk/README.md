@@ -44,5 +44,5 @@ Resiko ini berupa tidak bisa dibayarkannya pokok dan bunga pinjaman, sehingga me
 
 Credit score dan risk rating adalah dua penilaian yang dilakukan meminimalkan resiko dari pihak pemberi kredit. Karena berdasarkan kedua model penilaian tersebut, akan diputuskan apakah aplikasi peminjaman seseorang disetujui atau ditolak.
 
-# Refference
+# SOURCE
 [1] https://academy.dqlab.id/
