@@ -7,5 +7,7 @@ Exploratory Data Analysis memungkinkan analyst memahami isi data yang digunakan,
     2. Bivariat Analysis — analisis relasi dengan dua variabel yang biasanya dengan target variabel.
     3. Multivariat Analysis — analisis yang menggunakan lebih dari atau sama dengan tiga variabel.
 
+![](fitting%20category/flow.png)
+
 ## SOURCE
 https://academy.dqlab.id/ 
